@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Anna",
+            "lastname": "smith",
+            "email": "anna@gmail.com"
+        },
+        {
+            "id": 2,
+            "username": "Lasha",
+            "lastname": "smith2",
+            "email": "lasha@gmail.com"
+        },
+        {
+            "id": 3,
+            "username": "nika",
+            "lastname": "ragaca",
+            "email": "nika@gmail.com"
+        }
+
+    ],
+
+    "posts": [
+        {
+            "id": 1,
+            "text": "Hello1"
+        },
+        {
+            "id": 2,
+            "text": "Hello2"
+        }
+
+    ]
+
+    
+}
